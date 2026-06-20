@@ -1,4 +1,11 @@
-# 👋 Hi there, I'm Aniketh Nimsara!
+# 👋 Hi there, I'm Aniketh Nimsara!<a href="https://git.io/typing-svg">
+  <img src="https://demolab.comුබෝවන්!;මම+මෘදුකාංග+ඉංජිනේරුවෙක්" alt="Typing SVG" />
+</a>
+<a href="https://git.io/typing-svg">
+  <img src="https://demolab.comුබෝවන්!;මම+මෘදුකාංග+ඉංජිනේරුවෙක්" alt="Typing SVG" />
+</a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Ahmad!;I'm+a+Flutter+Developer...;I'm+also+Machine+Learning+Engineer;And+I'm+a+proud+Pakistani+🇵🇰)](https://git.io/typing-svg)
+
 
 <p align="left">
   <b>🚀 Student at iCET | Aspiring Full-Stack Software Engineer | Hardware Enthusiast</b>
