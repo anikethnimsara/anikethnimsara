@@ -40,7 +40,7 @@ I am a highly motivated Software Engineering student at **iCET**. I have a deep 
 I am always open to discussing web development, hardware innovations, or potential project collaborations. Feel free to reach out to me through any of the channels below:
 
 - 📧 **Email:** [icet.anikethnimsara@gmail.com](mailto:icet.anikethnimsara@gmail.com)
-- 💼 **LinkedIn:** [://linkedin.com](https://linkedin.com)
+- 💼 **LinkedIn:** [://linkedin.com](www.linkedin.com/in/anikethnimsara)
 - 💻 **GitHub Profile:** [://github.com](https://://github.com)
 
 ---
