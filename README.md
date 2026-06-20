@@ -1,95 +1,51 @@
-<!-- 🔥 PREMIUM GRADIENT WAVING HEADER -->
-<p align="center">
-  <img src="https://vercel.app" width="100%" alt="Premium Banner" />
-</p>
+# 👋 Hi there, I'm Aniketh Nimsara!
 
-<!-- ⚡ MULTI-LINE ADVANCED TYPING ANIMATION -->
-<p align="center">
-  <img src="https://demolab.com🚀+iCET+Software+Engineering+Student;💻+Full-Stack+Web+Developer;🔧+Hardware+%26+Systems+Enthusiast;🎯+Building+Future+Tech+Solutions" alt="Advanced Typing" />
-</p>
-
-<!-- 🌐 LIVE VIEWS & FOLLOWER COUNTERS -->
-<p align="center">
-  <img src="https://komarev.com" alt="Profile Views" />
-  <img src="https://shields.io" alt="Followers" />
-</p>
-
-<p align="center">
-  👋 <b>Welcome!</b> I am an aspiring software engineer focused on crafting high-performance code and exploring modern UI/UX workflows.
-</p>
-
----
-
-### 🏆 GITHUB 3D TROPHY ROOM (ADVANCED ACHIEVEMENT SHOWCASE)
-<p align="center">
-  <a href="https://github.com">
-    <img src="https://vercel.app" alt="GitHub Trophies" width="100%" />
-  </a>
-</p>
-
----
-
-### 🛠️ FULL ADVANCED TECH STACK & TOOLS
-
-#### 🌐 Web Development & Languages
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev" alt="Frontend Tech" />
-  </a>
-</p>
-
-#### ⚙️ Backend, Databases & Systems
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev" alt="Backend Tech" />
-  </a>
-</p>
-
-#### 🧰 DevOps, Cloud & Professional Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev" alt="Tools" />
-  </a>
+  <b>🚀 Student at iCET | Aspiring Full-Stack Software Engineer | Hardware Enthusiast</b>
 </p>
 
 ---
 
-### 📊 DETAILED ANALYTICS & ACTIVITY METRICS
+### 👨‍💻 About Me
 
-<p align="center">
-  <!-- GitHub Core Stats Card -->
-  <img src="https://vercel.app" alt="Aniketh's Stats" width="49%" />
-  <!-- GitHub Streak Tracking Card -->
-  <img src="https://herokuapp.com" alt="Aniketh's Streak" width="49%" />
-</p>
+I am a highly motivated Software Engineering student at **iCET**. I have a deep passion for building robust software solutions, exploring modern web technologies, and tweaking computer hardware components.
 
-<p align="center">
-  <!-- Most Used Languages Matrix -->
-  <img src="https://vercel.app" alt="Top Languages" width="60%" />
-</p>
+- 🔭 **Current Focus:** Developing high-performance, responsive full-stack applications.
+- 🌱 **Learning Journey:** Advanced Backend Engineering, Cloud Architecture, and DevOps.
+- 🔧 **Hardware Interest:** PC Assembly, System Performance Optimization, and Hardware Customization.
+- 🎯 **Future Goal:** To become a World-Class Systems Architect.
 
 ---
 
-### 📈 CURRENT EXPANSION PROJECTS & STATS
+### 🛠️ Technical Skills & Ecosystem
 
-<!-- GRAPH GENERATOR FOR WEEKLY CONTRIBUTIONS -->
-<p align="center">
-  <img src="https://vercel.app" width="100%" alt="Contribution Graph" />
-</p>
+| Layer | Technologies & Tools |
+| :--- | :--- |
+| **🌐 Frontend** | HTML5 / CSS3 / JavaScript (ES6+) / TypeScript / React.js / Tailwind CSS |
+| **⚙️ Backend & DB** | Node.js / Express.js / Java / Python / MongoDB / MySQL |
+| **🧰 Tools & DevOps**| Git / GitHub / VS Code / Figma / Postman / Linux Systems |
 
 ---
 
-### 🤝 CONNECT & COLLABORATE
+### 📈 GitHub Analytics & Status
+
+- 💻 **Active Repositories:** Working on modern web applications and academic projects.
+- ⚡ **Coding Style:** Clean architecture, well-commented code, and optimized algorithms.
+- 🌍 **Open Source:** Enthusiastic about collaborating on innovative developer software.
+
+---
+
+### 🌐 Let's Connect & Collaborate!
+
+I am always open to discussing web development, hardware innovations, or potential project collaborations. Feel free to reach out to me through any of the channels below:
+
+- 📧 **Email:** [icet.anikethnimsara@gmail.com](mailto:icet.anikethnimsara@gmail.com)
+- 💼 **LinkedIn:** [://linkedin.com](https://linkedin.com)
+- 💻 **GitHub Profile:** [://github.com](https://://github.com)
+
+---
 
 <p align="center">
-  <a href="mailto:icet.anikethnimsara@gmail.com">
-    <img src="https://shields.io" alt="Gmail" />
-  </a>
-  <a href="https://linkedin.com">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://githubusercontent.com" width="100%" alt="Divider Line" />
+  <i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i> <br>
+  <b>🌟 Thank you for visiting my GitHub Profile! Feel free to explore my repositories. 🌟</b>
 </p>
